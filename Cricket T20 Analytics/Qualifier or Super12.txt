@@ -1,0 +1,1 @@
+if date<22oct,2022> -> Qualifier, otherwise its Super12

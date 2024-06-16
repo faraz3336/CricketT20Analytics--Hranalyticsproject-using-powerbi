@@ -1,0 +1,4 @@
+D9B300
+LIGHT YELLOW = F0E36F
+press buttons = D0CF1D
+light blue = 105959
